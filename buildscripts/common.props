@@ -15,7 +15,7 @@
 		<FileVersion>$(BuildVersion)</FileVersion>
 		<VersionPrefix>$(BuildVersion)</VersionPrefix>
 		<AssemblyVersion>$(BuildVersionMajor).0.0</AssemblyVersion>
-		<PackageLicenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</PackageLicenseUrl>
+		<PackageLicenseExpression>APACHE-2.0</PackageLicenseExpression>
 		<PackageProjectUrl>http://www.castleproject.org/</PackageProjectUrl>
 		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
 		<PackageVersion>$(BuildVersion)</PackageVersion>
